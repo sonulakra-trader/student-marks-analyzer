@@ -1,2 +1,21 @@
-# student-marks-analyzer
-This Python script allows users to input marks for multiple students and perform various operations such as calculating total marks, average, highest and lowest marks. The program features an interactive menu that runs in a loop until the user chooses to exit, making it user-friendly for repeated operations without restarting the code.
+# 🎓 Student Marks Analyzer
+
+This Python script allows users to input and manage marks for multiple students. It provides an interactive console-based menu to perform operations like:
+
+- ✅ Input student names and their marks
+- 📊 Calculate **total**, **average**, **highest**, and **lowest** marks
+- 🔁 Perform repeated operations using a loop-based menu
+- ❌ Exit the program smoothly when done
+
+### 📌 Features
+
+- Simple and intuitive CLI (Command Line Interface)
+- Reusable logic for multiple students
+- Robust handling of inputs
+- Loop-based design for repeated use without restarting
+
+### 🧠 How to Use
+
+1. Run the script using Python:
+   ```bash
+   python student_mark_analyzer.py
